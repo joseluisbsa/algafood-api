@@ -1,4 +1,4 @@
-package com.algaworks.algafood;
+package br.com.joseph.algafoodapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
